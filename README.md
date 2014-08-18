@@ -8,5 +8,5 @@ manually in a CGContext.
 
 ![Drawing circles](https://raw.github.com/sergiou87/DrawingCircles/master/Images/flatness.gif)
 
-I've filed a bug report to Apple and submitted to Open Radar, 
+I've filed a bug report to Apple and submitted to [Open Radar](http://openradar.io/23784682), 
 but I know it may be my fault. If that's the case, I'll thank you if you let me know the right way to do it at Twitter: [@sergiou87](https://twitter.com/sergiou87).
