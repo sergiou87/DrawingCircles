@@ -1,0 +1,19 @@
+//
+//  SPAppDelegate.m
+//  DrawingCircles
+//
+//  Created by Sergio Padrino on 01/08/14.
+//  Copyright (c) 2014 Sergio Padrino. All rights reserved.
+//
+
+#import "SPAppDelegate.h"
+
+@implementation SPAppDelegate
+
+- (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
+{
+    // Override point for customization after application launch.
+    return YES;
+}
+
+@end
