@@ -1,4 +1,4 @@
-#Drawing Circles
+# Drawing Circles
 
 This is an example project showing a weird behaviour trying to change the flatness of a bezier path in a CAShapeLayer.
 
